@@ -13,13 +13,11 @@ The primary goal of the mental health chatbot is to offer real-time, accessible,
 
 **Table of Contents:**
 
-1. Installation  
-2. Usage  
-3. Data  
-4. Models  
-5. Evaluation  
-6. Results  
-7. Project Requirements.
+Data  
+Models  
+Evaluation  
+Results  
+Project Requirements.
 
 **Installation**
 
@@ -50,7 +48,7 @@ Based on the objective of our project we have selected the following model:
 
 
 
-
+HuggingFace URL: https://huggingface.co/tanusrich/Mental_Health_Chatbot/blob/main/README.md
 
 **Evaluation**
 
