@@ -53,10 +53,10 @@ HuggingFace URL: https://huggingface.co/tanusrich/Mental_Health_Chatbot/blob/mai
 ***Evaluation***
 
 
-***Results**
+***Results***
 
 
-***Project Requirements**
+***Project Requirements***
 
 Your presentation should cover the following:
 
