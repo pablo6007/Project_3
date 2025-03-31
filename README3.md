@@ -1,5 +1,7 @@
 # Project-3
 
+![Image](https://github.com/user-attachments/assets/e6db438c-eded-42ff-a893-3dece893564e)
+
 Team Members: Matthew Ward, Joel Freeman, Will Atwater, Kelson Calen, Pablo Romero
 
 **Overview:**  
