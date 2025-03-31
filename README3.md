@@ -1,4 +1,4 @@
-# Project-3
+# Project: 3 - Mental Health Chat Bot
 
 ![Image](https://github.com/user-attachments/assets/e6db438c-eded-42ff-a893-3dece893564e)
 
