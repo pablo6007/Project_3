@@ -58,6 +58,24 @@ HuggingFace URL: https://huggingface.co/tanusrich/Mental_Health_Chatbot/blob/mai
 
 ***Project Requirements***
 
+Model Implementation (25 points)
+There is a Jupyter notebook that thoroughly describes the data extraction, cleaning, preprocessing, and transformation process, and the cleaned data is exported as CSV files for a machine or deep learning model, or natural language processing (NLP) application. (10 points)
+
+A Python script initializes, trains, and evaluates a model or loads a pretrained model. (10 points)
+
+At least one additional library or technology NOT covered in class is used. (5 points)
+
+Model Optimization (25 points)
+The model optimization and evaluation process showing iterative changes made to the model and the resulting changes in model performance is documented in either a CSV file, Excel table, or in the Python script itself. (15 points)
+
+Overall model performance is printed or displayed at the end of the script. (10 points)
+
+GitHub Documentation (25 points)
+The GitHub repository is free of unnecessary files and folders and has an appropriate .gitignore in use. (10 points)
+
+The README is customized as a polished presentation of the content of the project. (15 points)
+
+Presentation Requirements (25 points)
 Your presentation should cover the following:
 
 An executive summary or overview of the project and project goals. (5 points)
